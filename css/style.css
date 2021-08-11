@@ -9,8 +9,8 @@ button {
 }
 
 .container {
-  margin-left: 55px;
-  margin-top: 80px;
+  margin-left: 55px !important;
+  margin-top: 80px !important;
 }
 
 h1 {
